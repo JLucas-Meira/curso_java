@@ -1,4 +1,23 @@
-bin/
-target/
+# IntelliJ / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled class files
 *.class
+
+# Maven / Gradle (caso venha usar)
+target/
+build/
+
+# Output folders
+/bin/
+/out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
 *.log
