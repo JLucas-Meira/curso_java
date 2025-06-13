@@ -1,8 +1,8 @@
-package applications;
+package projects.triangle_area_calculator.applications;
 
 import java.util.Locale;
 import java.util.Scanner;
-import entities.Triangle;
+import projects.triangle_area_calculator.entities.Triangle;
 
 public class TriangleApp {
     public static void main(String[] args) {

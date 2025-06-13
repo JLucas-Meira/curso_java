@@ -1,10 +1,10 @@
-package applications;
+package projects.dolar_buying.applications;
 
 import java.util.Scanner;
 import java.util.Locale;
 
-import entities.Dollar;
-import util.CurrencyConverter;
+import projects.dolar_buying.entites.Dollar;
+import projects.dolar_buying.converters.CurrencyConverter;
 
 public class DollarApp {
     public static void main(String[] args) {

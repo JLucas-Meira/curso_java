@@ -1,4 +1,4 @@
-package util;
+package projects.dolar_buying.converters;
 
 public class CurrencyConverter {
 

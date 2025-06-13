@@ -1,4 +1,4 @@
-package entities;
+package projects.triangle_area_calculator.entities;
 
 public class Triangle {
 
