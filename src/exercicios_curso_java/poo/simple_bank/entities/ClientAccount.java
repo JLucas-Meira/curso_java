@@ -1,4 +1,4 @@
-package projects.simple_bank.entities;
+package exercicios_curso_java.poo.simple_bank.entities;
 import java.lang.Override;
 
 /*

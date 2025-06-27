@@ -1,4 +1,4 @@
-package exercicios_curso_java;
+package exercicios_curso_java.estruturas_repetitivas;
 import java.util.Scanner;
 
 public class exerc_for_2 {

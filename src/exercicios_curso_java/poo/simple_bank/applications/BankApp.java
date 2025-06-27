@@ -1,5 +1,5 @@
-package projects.simple_bank.applications;
-import projects.simple_bank.entities.ClientAccount;
+package exercicios_curso_java.poo.simple_bank.applications;
+import exercicios_curso_java.poo.simple_bank.entities.ClientAccount;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package projects.dolar_buying.entites;
+package exercicios_curso_java.poo.dolar_buying.entites;
 
 // Classe que representa a entidade Dollar (valor do dólar informado pelo usuário)
 public class Dollar {

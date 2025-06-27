@@ -1,4 +1,4 @@
-package projects.dolar_buying.converters;
+package exercicios_curso_java.poo.dolar_buying.converters;
 
 public class CurrencyConverter {
 

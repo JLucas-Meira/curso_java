@@ -1,10 +1,10 @@
-package projects.dolar_buying.applications;
+package exercicios_curso_java.poo.dolar_buying.applications;
 
 import java.util.Scanner;
 import java.util.Locale;
 
-import projects.dolar_buying.entites.Dollar;
-import projects.dolar_buying.converters.CurrencyConverter;
+import exercicios_curso_java.poo.dolar_buying.entites.Dollar;
+import exercicios_curso_java.poo.dolar_buying.converters.CurrencyConverter;
 
 public class DollarApp {
     public static void main(String[] args) {

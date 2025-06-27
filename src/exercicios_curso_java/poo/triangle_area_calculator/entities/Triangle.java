@@ -1,4 +1,4 @@
-package projects.triangle_area_calculator.entities;
+package exercicios_curso_java.poo.triangle_area_calculator.entities;
 
 public class Triangle {
 

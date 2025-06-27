@@ -1,4 +1,4 @@
-package exercicios_curso_java;
+package exercicios_curso_java.estruturas_condicionais;
 import java.util.Scanner;
 
 public class if_else {
