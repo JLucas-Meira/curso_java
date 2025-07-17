@@ -2,7 +2,7 @@ package exercicios_curso_java.arrays_listas.projetos.registro_funcionarios.entit
 
 public class Funcionario {
 
-    private final int id;
+    private int id;
     private String nome;
     private double salario;
 
@@ -12,6 +12,10 @@ public class Funcionario {
         this.salario = salario;
     }
 
+    public Funcionario() {
+    }
+
+    //Getters and setters
     public int getId() {
         return id;
     }
@@ -28,8 +32,13 @@ public class Funcionario {
         return salario;
     }
 
+    //Metodo para aumento do salário por porcentagem.
+    public void aumentoSalario(double porcentagem){
+        salario += salario * porcentagem / 100.0;
+    }
+
     @Override
     public String toString() {
-        return "ID: " + id + ", nome: " + nome + ", salário: R$ " + String.format("%.2f" + salario);
+        return "ID: " + id + ", " + nome + ", R$ " + String.format("%.2f", salario);
     }
 }
